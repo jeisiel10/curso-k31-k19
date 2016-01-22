@@ -41,12 +41,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Funcionario.cs" />
-    <Compile Include="Gerente.cs" />
+    <Compile Include="Modelos\Funcionario.cs" />
+    <Compile Include="Modelos\Gerente.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Secretaria.cs" />
-    <Compile Include="Telefonista.cs" />
-    <Compile Include="TestaFuncionarios.cs" />
+    <Compile Include="Modelos\Secretaria.cs" />
+    <Compile Include="Modelos\Telefonista.cs" />
+    <Compile Include="Testes\TestaFuncionarios.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -3,8 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Heranca.Modelos;
 
-namespace Heranca
+namespace Heranca.Testes
+
 {
     class TestaFuncionarios
     {
